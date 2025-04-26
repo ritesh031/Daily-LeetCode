@@ -8,6 +8,7 @@ Problem: Count Subarays with Fixed bounds ( you have to return the count of that
 //T.C : O(n^2)
 //S.C : O(1)
 //Find all subarrays and check if min is minK and max is maxK
+// it will probabily give the Time limit exceed
 class Solution {
 public:
     long long countSubarrays(vector<int>& nums, int minK, int maxK) {
