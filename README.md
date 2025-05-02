@@ -1,3 +1,3 @@
 # Daily-LeetCode
 
-Now, these stricks matter for me 
+Now, these streak matter for me
